@@ -4,4 +4,4 @@ This Repo contains some interesting stuff with which you can make your GitHub pr
 (checkout my profile for some idea  [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/HarshDutt17))
 I will keep adding more things when i get to know more.
 
-## PS-These are available on the internet,credits to the respective creator, I just compiled all necessary ones and created some of them as well.
+## These are available on the internet,credits to the respective creator, I just compiled all necessary ones and created some of them as well.
