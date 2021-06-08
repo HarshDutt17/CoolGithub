@@ -1,5 +1,12 @@
 ## 📱 Contact
 
+## How To Use?
+[![label] ( url_of_the_badge ) ] ( contact-link )
+
+Example | Code
+------------ | -------------
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshdatt17@gmail.com) | `[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshdatt17@gmail.com)`
+
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> | `https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white`
