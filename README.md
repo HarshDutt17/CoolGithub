@@ -1,2 +1,4 @@
-# CoolGithub
-This Repo contains some interesting stuff with which you can make your GitHub profile look more Cool.
+Just create a Repositary with same name as your Username, this will appear on your github main profile.
+# CoolGithubBadges
+This Repo contains some interesting stuff with which you can make your GitHub profile look more Cool. (checkout my profile for some idea)
+I will keep adding more things when i get to know more
