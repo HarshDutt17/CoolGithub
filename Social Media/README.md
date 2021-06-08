@@ -1,4 +1,11 @@
-## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
+## 👨👩 Social Media
+
+## How To Use?
+[![label] ( url_of_the_badge ) ] ( contact-link )
+
+Example | Code
+------------ | -------------
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/amharshdutt) | `[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/amharshdutt)`
 
 Badge | URL
 ------------ | -------------
